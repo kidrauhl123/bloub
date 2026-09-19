@@ -140,8 +140,7 @@ const en: typeof fr = {
     triangle: 'Triangle',
     hexagone: 'Hexagon',
     nuage: 'Cloud',
-    goutte: 'Droplet',
-    chat: 'Cat'
+    goutte: 'Droplet'
   },
 
   colors: {
