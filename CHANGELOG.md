@@ -5,6 +5,11 @@ Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Added
+
+- **Cat body shape (`chat`)** in Customise: round head with two ears via union-of-discs.
+  Eyes stay on the original bloub engine.
+
 ### Fixed
 
 - **The Settings and Animations views were unusable below 64rem.** Everything stacks
